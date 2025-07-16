@@ -34,5 +34,5 @@ This dashboard is ideal for:
 - 💬 Let’s Connect!
 
 I’m actively exploring roles in **supply chain analytics**, **Supply Chain manager**, and **operations planning** where I can apply my Power BI and analytical skills to solve real-world business challenges.
-Feel free to ⭐ this repo, fork it, or connect with me on [LinkedIn]([https://www.linkedin.com/in/vinita-ashok-jha-bb54281a3/](https://www.linkedin.com/posts/vinita-ashok-jha-bb54281a3_power-bi-inventory-risk-dashboard-activity-7336166821324075008-AxbI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC-VPrkBcLobf0waW6OSRfaP9MSWoT7_nxg)).
+Feel free to ⭐ this repo and  connect with me on [LinkedIn]([https://www.linkedin.com/in/vinita-ashok-jha-bb54281a3/](https://www.linkedin.com/posts/vinita-ashok-jha-bb54281a3_power-bi-inventory-risk-dashboard-activity-7336166821324075008-AxbI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC-VPrkBcLobf0waW6OSRfaP9MSWoT7_nxg)).
 
